@@ -14,8 +14,8 @@ I have a particular passion for the **Internet of Things (IoT)** and its applica
 
 *   **Languages:** C/C++ (Embedded/Arduino), Python (learning), SQL (basic), Node.js (basic)
 *   **Paradigms:** OOP, Algorithms and Data Structures (currently studying)
-*   **Hardware & Platforms:** Microcontroller development (Arduino), electronics, IoT device prototyping
-*   **Other:** Git, GitHub
+*   **Hardware & Platforms:** Microcontroller development (Arduino, STM32), electronics, IoT device prototyping
+*   **Other:** Bash
 
 ### 📂 My Projects
 
